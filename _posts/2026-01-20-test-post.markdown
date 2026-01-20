@@ -1,8 +1,8 @@
 ---
 layout: default
-title:  "Test Post"
+title:  "New Pages Added"
 date:   2026-01-20 12:58:59 -0500
-categories: test
+categories: initial commit page
 ---
 
-Insert Post Content as a Test
+Added About, Contact, Project Work, and Resume & Achievement Pages

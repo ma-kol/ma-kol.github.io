@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Contact
-permalink: /about/contact/
+permalink: /contact
 ---
 
-## GitHub
-Contact me via GitHub @ma-kol
+## Contact
+
+Contact me via <a href="https://github.com/ma-kol" target="_blank" rel="noopener noreferrer">GitHub</a>
